@@ -199,6 +199,28 @@ h1,h2,h3,h4,h5,h6,span,p{
 .changhed-path-h h3 small{
     color: coral;
 }
+.programming-world{
+    margin-top: 500px;
+}
+.changhed-path-h h3{
+    font-size: 70px;
+    margin-left: 250px;
+    margin-top: 220px;
+}
+.changhed-path-h p{
+    margin-left: 255px;
+    padding-top: 50px;
+    font-size: 25px;
+    padding-bottom: 40px;
+}
+.changhed-path-h a{
+    margin-left: 255px;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: tomato;
+    border-radius: 10px;
+}
 
 
 
