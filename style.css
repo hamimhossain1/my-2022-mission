@@ -145,8 +145,60 @@ h1,h2,h3,h4,h5,h6,span,p{
 #know-mind-body{
     display: flex;
     margin-top: 200px;
+    margin-left: 130px;
+}
+.Know-body{
+    font-size: 25px;
+}
+.team-presentation-img{
+    margin-left: 250px;
+}
+.Know-body h3 span{
+    display: block;
+}
+.Know-body h3{
+    font-size: 50px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+.Know-body a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: tomato;
+    border-radius: 10px;
+}
+.Know-body p{
+    padding-bottom: 30px;
 }
 
+
+
+
+
+
+#changhed-path{
+    margin-top: 100px;
+}
+.changhed-path-div{
+    display: flex;
+}
+.changhed-path-h h2{
+    font-size: 80px;
+    margin-right: 50px;
+}
+.changhed-path-img{
+    margin-top: 300px;
+}
+.changhed-path-h h2 span{
+    color: coral;
+}
+.changhed-path-h h3 span{
+    display: block;
+}
+.changhed-path-h h3 small{
+    color: coral;
+}
 
 
 
