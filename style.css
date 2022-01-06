@@ -227,5 +227,31 @@ h1,h2,h3,h4,h5,h6,span,p{
 
 
 
+#footer{
+    text-align: center;
+    margin-top: 300px;
+    background-color: black;
+    padding-bottom: 80px;
+    padding-top: 60px;
+    
+
+}
+.footer-22 span{
+    color: red;
+}
+.footer-22 h2{
+    font-size: 50px;
+    color: white;
+}
+.footer-22 p{
+    font-size: 20px;
+    color: white;
+}
+
+
+
+
+
+
 
 
