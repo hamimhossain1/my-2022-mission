@@ -17,20 +17,28 @@
     display: block;
     padding-top: 30px;
     font-size: 17px;
+    padding-top: 50px;
 }
 .be-true p{
     font-size: 20px;
     padding-top: 30px;
-    padding-bottom: 25px;
+    padding-bottom: 35px;
     font-size: 22px;
     line-height: 30px;
+    width: 550px;
 }
 h1,h2,h3,h4,h5,h6,span,p{
     margin: 0px;
     padding: 0px;
+    font-family: 'Poppins', sans-serif;
 }
 .be-true a{
     text-decoration: none;
     font-size: 20px;
-
+    padding: 10px 25px;
+    background-color: tomato;
+    border-radius: 10px;
+}
+.picture-22{
+    padding-top: 120px;
 }
