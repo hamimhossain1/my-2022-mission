@@ -1,6 +1,36 @@
-h1{
+.stay-focused h1{
     color: rebeccapurple;
+    font-size: 100px;
+}
+.stay-focused h1 span{
+    display: block;
+    color: sandybrown;
 }
 .stay-focused{
     display: flex;
+    margin-top: 10px;
+}
+.be-true{
+    margin: 200px;
+}
+.be-true small{
+    display: block;
+    padding-top: 30px;
+    font-size: 17px;
+}
+.be-true p{
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    font-size: 22px;
+    line-height: 30px;
+}
+h1,h2,h3,h4,h5,h6,span,p{
+    margin: 0px;
+    padding: 0px;
+}
+.be-true a{
+    text-decoration: none;
+    font-size: 20px;
+
 }
