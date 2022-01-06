@@ -50,9 +50,53 @@ h1,h2,h3,h4,h5,h6,span,p{
 
 
 .mission-vission-goals{
+    margin-bottom: 200px;
+}
+.my-22 h1{
+    text-align: center;
+    font-size: 70px;
+    padding-bottom: 50px;
+}
+.my-22 h1 span{
+    color: rgb(218, 129, 97);
+
+}
+.mission-flex{
     display: flex;
 }
+.mission-img{
+    margin: 50px;
+    border-radius: 30px;
+    font-size: 23px;
+    background-color: rgb(202, 241, 179);
+    margin-left: 360px;
+}
+.mission-img h3{
+    font-size: 30px;
+}
 
+
+
+.vission-img{
+    background-color: rgb(235, 217, 210);
+    font-size: 23px;
+    margin: 50px;
+    border-radius: 30px;
+}
+.vission-img h3{
+    font-size: 30px;
+}
+
+
+.goals-img{
+    background-color: rgb(80, 182, 250);
+    font-size: 23px;
+    margin: 50px;
+    border-radius: 30px;
+}
+.goals-img h3{
+    font-size: 30px;
+}
 
 
 
@@ -61,7 +105,46 @@ h1,h2,h3,h4,h5,h6,span,p{
 
 
 .develop-yourself{
+    margin-top: 100px;
+}
+.development-div{
     display: flex;
+}
+.develop-img{
+    margin-left: 200px;
+}
+.develop-without-limits{
+    font-size: 25px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.develop-without-limits a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: tomato;
+    border-radius: 10px;
+}
+.develop-without-limits p{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.develop-without-limits h3{
+    font-size: 50px;
+}
+.develop-without-limits h3 span{
+    display: block;
+}
+
+
+
+
+
+
+
+#know-mind-body{
+    display: flex;
+    margin-top: 200px;
 }
 
 
@@ -72,18 +155,3 @@ h1,h2,h3,h4,h5,h6,span,p{
 
 
 
-.know-mind-body{
-    display: flex;
-}
-
-
-
-
-
-
-
-
-
-.changhed-path{
-    display: flex;
-}
