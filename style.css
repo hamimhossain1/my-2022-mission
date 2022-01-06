@@ -42,13 +42,6 @@ h1,h2,h3,h4,h5,h6,span,p{
 .picture-22{
     padding-top: 120px;
 }
-
-
-
-
-
-
-
 .mission-vission-goals{
     margin-bottom: 200px;
 }
@@ -59,7 +52,6 @@ h1,h2,h3,h4,h5,h6,span,p{
 }
 .my-22 h1 span{
     color: rgb(218, 129, 97);
-
 }
 .mission-flex{
     display: flex;
@@ -74,9 +66,6 @@ h1,h2,h3,h4,h5,h6,span,p{
 .mission-img h3{
     font-size: 30px;
 }
-
-
-
 .vission-img{
     background-color: rgb(235, 217, 210);
     font-size: 23px;
@@ -86,8 +75,6 @@ h1,h2,h3,h4,h5,h6,span,p{
 .vission-img h3{
     font-size: 30px;
 }
-
-
 .goals-img{
     background-color: rgb(80, 182, 250);
     font-size: 23px;
@@ -97,13 +84,6 @@ h1,h2,h3,h4,h5,h6,span,p{
 .goals-img h3{
     font-size: 30px;
 }
-
-
-
-
-
-
-
 .develop-yourself{
     margin-top: 100px;
 }
@@ -135,13 +115,6 @@ h1,h2,h3,h4,h5,h6,span,p{
 .develop-without-limits h3 span{
     display: block;
 }
-
-
-
-
-
-
-
 #know-mind-body{
     display: flex;
     margin-top: 200px;
@@ -171,12 +144,6 @@ h1,h2,h3,h4,h5,h6,span,p{
 .Know-body p{
     padding-bottom: 30px;
 }
-
-
-
-
-
-
 #changhed-path{
     margin-top: 100px;
 }
@@ -221,21 +188,12 @@ h1,h2,h3,h4,h5,h6,span,p{
     background-color: tomato;
     border-radius: 10px;
 }
-
-
-
-
-
-
 #footer{
     text-align: center;
     margin-top: 300px;
     background-color: black;
     padding-bottom: 80px;
     padding-top: 60px;
-
-    
-
 }
 .footer-22 span{
     color: red;
